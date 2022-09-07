@@ -1,0 +1,11 @@
+.sticky {
+  overflow: hidden;
+
+  background-color: cadetblue;
+}
+
+.head {
+  background-image: url("https://www.datapine.com/images/logo-bl.png");
+  width: 250px;
+  height: 40px;
+}

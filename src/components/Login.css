@@ -1,0 +1,43 @@
+.login {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+  justify-content: center;
+  border: none;
+
+  padding: 20px;
+}
+
+.para {
+  font-size: 25px;
+  color: white;
+  font-weight: 500;
+}
+.par {
+  font-size: 15px;
+  color: white;
+
+  font-weight: 450;
+}
+.btn {
+  text-align: center;
+  background-color: green;
+  width: 200px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.cont {
+  background-color: #256d85;
+  height: 200px;
+  width: 120%;
+  justify-content: center;
+  border: none;
+  text-align: center;
+  font-weight: 300;
+  margin: 25px;
+  border: none;
+  margin: auto;
+}
+.container > .login {
+  align-items: center;
+}

@@ -1,0 +1,25 @@
+.images {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100%;
+  align-items: center;
+  margin: 20px 0;
+  margin-left: 20%;
+  border: none;
+  border-radius: 0;
+  background-color: orange;
+}
+.title {
+  text-align: center;
+  font-weight: 500;
+}
+.titles {
+  color: skyblue;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.card {
+  border: none;
+}
